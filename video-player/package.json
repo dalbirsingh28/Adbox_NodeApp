@@ -1,0 +1,24 @@
+{
+  "name": "adbox_pirate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1": "^0.2.3",
+    "axios": "^0.17.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-ssh": "^5.0.0",
+    "ping": "^0.2.2",
+    "semver": "^5.4.1",
+    "socket.io": "^2.0.4",
+    "ssh2": "^0.5.5",
+    "ssh2-streams": "^0.1.20",
+    "streamsearch": "^0.1.2"
+  }
+}
